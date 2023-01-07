@@ -1,2 +1,2 @@
 # RecyclerView
-How Recycler view works on Android
+show the cycle of activities in Android apps
